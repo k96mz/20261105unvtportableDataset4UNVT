@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "sprite": "http://10.42.0.1:80/public/sprite-2.0/sprite",
+  "sprite": "http://10.42.0.1:80/sprite",
   "glyphs": "http://10.42.0.1:80/public/font/{fontstack}/{range}.pbf",
   "sources": {
     "v": {
